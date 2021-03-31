@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.engenheirosdoti.estoqueinteligente",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "estoqueinteligente",
+    "packageName": "com.engenheirosdoti.estoqueinteligente",
+    "packageFolder": "com/engenheirosdoti/estoqueinteligente",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2YzYmE3MWYxN2NlMzdkNWQ4ZTZhYTBkYWRhYTNiNjFlZDQ3YWYxYzkwZWRhYTliOGI5NGNjMGNmM2U3MDc4YWI3MzJlM2M5ZGRiODk0ZDZjNWYyNzUyNWYwZGQ3MDA4YjRkMzhjM2I5MmU5MmNiMjM3YmZhYjE3Nzc0ZGQ0OTI=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
